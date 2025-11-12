@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --host",
+    "dev": "node gerarMusicJson.js && vite --host",
     "build": "node gerarMusicJson.js && vite build",
     "preview": "vite preview",
     "gerar-musicas": "node gerarMusicJson.js",
