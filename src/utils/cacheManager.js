@@ -17,10 +17,10 @@ function openDB() {
   });
 }
 
-export async function salvarNoCache(nomeArquivo, blob) {
+export async function salvarNoCache(nomeArquivo, titulo, blob) {
   const db = await openDB();
   const tx = db.transaction(STORE_NAME, "readwrite");
-  await tx.objectStore(STORE_NAME).put({ nomeArquivo, blob }); // Não precisa retornar tx.done
+  await tx.objectStore(STORE_NAME).put({ nomeArquivo, titulo, blob });
 }
 
 export async function listarMusicasCache() {

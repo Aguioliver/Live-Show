@@ -59,7 +59,7 @@ export default function Musicas() {
       const res = await fetch(musica.url);
       if (!res.ok) throw new Error("Erro ao baixar arquivo: " + res.status);
       const blob = await res.blob();
-      await salvarNoCache(musica.nomeArquivo, blob);
+      await salvarNoCache(musica.nomeArquivo, musica.titulo, blob);
       await carregarCache();
     } catch (e) {
       console.error("Erro ao baixar música:", e);
