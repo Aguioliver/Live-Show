@@ -1,0 +1,30 @@
+{
+  "name": "live-show",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "node gerarMusicJson.js && vite build",
+    "preview": "vite preview",
+    "gerar-musicas": "node gerarMusicJson.js",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "firebase": "^12.5.0",
+    "howler": "^2.2.4",
+    "localforage": "^1.10.0",
+    "lucide-react": "^0.553.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.23.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "vite": "^5.2.11",
+    "vite-plugin-pwa": "^1.1.0"
+  }
+}
