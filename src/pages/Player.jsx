@@ -60,7 +60,7 @@ export default function Player({
         🎧 Player
       </h2>
 
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
         {/* Coluna Esquerda: Lista de Músicas */}
         <div className="bg-gray-900 p-4 rounded-lg">
           <h3 className="text-2xl font-bold mb-4 text-white">Playlist</h3>
@@ -85,8 +85,8 @@ export default function Player({
           </ul>
         </div>
 
-        {/* Coluna Direita: Player */}
-        <div className="flex flex-col gap-6">
+        {/* Coluna Central: Player */}
+        <div className="flex flex-col gap-6 lg:col-span-1">
           {/* Painel de Informações */}
           <div className="bg-gray-900 p-4 rounded-lg h-fit sticky top-20">
             <h3 className="text-2xl font-bold mb-4 text-white text-center truncate" title={setlist.nome}>
@@ -135,6 +135,21 @@ export default function Player({
               </div>
           </div>
         </div>
+
+        {/* Coluna Direita: Letra da Música */}
+        <div className="bg-gray-900 p-4 rounded-lg lg:col-span-1">
+          <h3 className="text-2xl font-bold mb-4 text-white">Letra</h3>
+          <div className="max-h-[70vh] overflow-y-auto pr-2">
+            {musicaAtual?.lyrics ? (
+              <pre className="text-gray-300 whitespace-pre-wrap font-sans text-base leading-relaxed">
+                {musicaAtual.lyrics}
+              </pre>
+            ) : (
+              <p className="text-gray-500">Nenhuma letra disponível para esta música.</p>
+            )}
+          </div>
+        </div>
+
       </div>
     </div>
   );

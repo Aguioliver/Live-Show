@@ -56,10 +56,21 @@ export default function Musicas() {
 
   async function baixarMusica(musica) {
     try {
+      // Baixa o áudio
       const res = await fetch(musica.url);
       if (!res.ok) throw new Error("Erro ao baixar arquivo: " + res.status);
       const blob = await res.blob();
-      await salvarNoCache(musica.nomeArquivo, musica.titulo, blob);
+
+      // Baixa a letra, se existir
+      let lyrics = null;
+      if (musica.lyricsUrl) {
+        const lyricsRes = await fetch(musica.lyricsUrl);
+        if (lyricsRes.ok) {
+          lyrics = await lyricsRes.text();
+        }
+      }
+
+      await salvarNoCache(musica.nomeArquivo, musica.titulo, blob, lyrics);
       await carregarCache();
     } catch (e) {
       console.error("Erro ao baixar música:", e);

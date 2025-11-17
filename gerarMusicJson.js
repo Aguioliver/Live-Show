@@ -2,6 +2,7 @@
 import fs from "fs";
 import path from "path";
 
+const publicDir = path.resolve("public");
 const musicDir = path.resolve("public/music");
 const outputFile = path.join(musicDir, "music.json");
 
@@ -20,10 +21,18 @@ try {
   // Filtra apenas os arquivos de áudio
   const musicas = arquivos
     .filter((nome) => nome.match(/\.(mp3|wav|ogg|m4a)$/i))
-    .map((nome) => ({
-      titulo: formatarTitulo(nome),
-      url: `/music/${nome}`,
-    }));
+    .map((nome) => {
+      const baseName = nome.replace(/\.[^/.]+$/, ""); // Nome sem extensão
+      const lyricsPath = path.join(publicDir, "lyrics", `${baseName}.txt`);
+      const lyricsUrl = fs.existsSync(lyricsPath) ? `/lyrics/${baseName}.txt` : null;
+
+      return {
+        titulo: formatarTitulo(nome),
+        url: `/music/${nome}`,
+        // Adiciona a URL da letra se o arquivo existir
+        lyricsUrl: lyricsUrl,
+      };
+    });
 
   // Salva o JSON no mesmo diretório
   fs.writeFileSync(outputFile, JSON.stringify(musicas, null, 2), "utf-8");
