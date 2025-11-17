@@ -1,54 +1,857 @@
 [
   {
+    "titulo": " Rolê   PLAY OK (Gm)",
+    "url": "/music/Várias 2/ Rolê - PLAY OK (Gm).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "01 SHOW DAS PODEROSAS",
+    "url": "/music/Várias 2/01-SHOW DAS PODEROSAS.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "07 MEU VIOLÃO E O NOSSO CACHORRO  PLAY",
+    "url": "/music/Várias 2/07-MEU VIOLÃO E O NOSSO CACHORRO -PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "08 QUE SORTE A NOSSA   PLAY",
+    "url": "/music/Várias 2/08-QUE SORTE A NOSSA - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "09 DEZ POR CENTO (10%)   Maiara E MaraíSa",
+    "url": "/music/Várias 2/09-DEZ POR CENTO (10%) - Maiara e Maraísa.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "10 Flor E O Beija Flor   Henrique E Juliano Part.MaríLia MendonçA",
+    "url": "/music/Várias 2/10-Flor e o Beija-Flor - Henrique e Juliano Part.Marília Mendonça.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "12 Na Hora Da Raiva   Henrique E Juliano",
+    "url": "/music/Várias 2/12-Na Hora da Raiva - Henrique e Juliano.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "15  Seu PolíCia   Zé Neto E Cristiano",
+    "url": "/music/Várias 2/15- Seu Polícia - Zé Neto e Cristiano.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "18  50 Reais    Naiara Azevedo Part. Maiara E Maraisa",
+    "url": "/music/Várias 2/18- 50 Reais  - Naiara Azevedo Part. Maiara e Maraisa.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "22  01 Vira Vira    SEQ Mamonas Assasinas",
+    "url": "/music/Várias 2/22--01-Vira Vira -  SEQ Mamonas Assasinas.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "24  Mexidinho   Maiara E Maraisa  PLAY",
+    "url": "/music/Várias 2/24- Mexidinho - Maiara e Maraisa- PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "ACASO PLAY OK",
+    "url": "/music/Várias 2/ACASO PLAY OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Aí Eu Bebo   PLAY  Maiara E Maraisa",
+    "url": "/music/Sertanejo/Aí eu bebo - PLAY- Maiara e Maraisa.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Ai Que Dó   PLAY OK",
+    "url": "/music/NACIONAIS/Ai Que Dó - PLAY OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "AMEAÇA   PLAYBACK",
+    "url": "/music/Sertanejo/AMEAÇA - PLAYBACK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "APAIXONADINHA   PLAY   MaríLia MendonçA Part. LéO Santana ",
+    "url": "/music/Várias 2/APAIXONADINHA - PLAY - Marília Mendonça Part. Léo Santana .mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "ASSINO COM X   PLAY",
+    "url": "/music/Várias 2/ASSINO COM X - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "ATRASADINHA   PLAY",
+    "url": "/music/Várias 2/ATRASADINHA - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
     "titulo": "Baby Can I Hold You   Dino   Db Major",
-    "url": "/music/Baby Can I Hold You - Dino - Db major.mp3"
+    "url": "/music/DINO/Baby Can I Hold You - Dino - Db major.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Baby Me Atende   PLAY   C#M",
+    "url": "/music/Várias 2/Baby Me Atende - PLAY - C#m.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "BARQUINHA DE OURO   PLAY OK",
+    "url": "/music/Várias 2/BARQUINHA DE OURO - PLAY OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Batom De Cereja   PLAY OK (A)",
+    "url": "/music/Várias 2/Batom de Cereja - PLAY OK (A).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "BebaçA Play",
+    "url": "/music/Sertanejo/Bebaça play.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Bijuteria   Bruno E MarronePLAY",
+    "url": "/music/Sertanejo/Bijuteria - Bruno e MarronePLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Blue Moon   Frank Sinatra",
+    "url": "/music/Várias/Blue Moon - Frank Sinatra.m4a",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Blue Moon   PLAY OK",
+    "url": "/music/INTERNACIONAIS/Blue Moon - PLAY OK.wav",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Boate Azul   Bruno E Marrone",
+    "url": "/music/Várias 2/Boate Azul   Bruno e Marrone.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Bombomzinho   Israel & Rodolffo PLAY",
+    "url": "/music/Sertanejo/Bombomzinho - Israel & Rodolffo PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "BRIGAS   CHRYSTIAN E RALF (PLAYBACK OFICIAL COM LETRA) 1987",
+    "url": "/music/Sertanejo/BRIGAS - CHRYSTIAN E RALF (PLAYBACK OFICIAL COM LETRA) 1987.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "CABECA BRANCA   PLAYBACK",
+    "url": "/music/Sertanejo/CABECA BRANCA - PLAYBACK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Can'T Take My Eyes Off You   PLAY OK",
+    "url": "/music/INTERNACIONAIS/Can't Take my Eyes off you - PLAY OK.wav",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Capricha Gaiteiro CoraçÃO   B ",
+    "url": "/music/Várias/Capricha Gaiteiro Coração - B .mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Cds E Livros   PLAY OK",
+    "url": "/music/NACIONAIS/Cds e Livros - PLAY OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Cds E Livros   PLAY OK",
+    "url": "/music/NACIONAIS/Cds e Livros - PLAY OK.wav",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "CE TÁ PREPARADA   PLAY",
+    "url": "/music/Sertanejo/CE TÁ PREPARADA - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Cheiro De Shampoo   PLAY",
+    "url": "/music/Sertanejo/Cheiro de Shampoo - PLAY.wav",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "CHEIROSA Jorge & Mateus   PLAY",
+    "url": "/music/Sertanejo/CHEIROSA Jorge & Mateus - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "CHRYSTIAN & RALF   SOU EU (ENTRE ELA E EU) PLAYBACK POCKET SHOW",
+    "url": "/music/Sertanejo/CHRYSTIAN & RALF - SOU EU (ENTRE ELA E EU) PLAYBACK POCKET SHOW.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "CIUMEIRA   MARILA   PLAY",
+    "url": "/music/Sertanejo/CIUMEIRA - MARILA - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "CLIMA DE RODEIO   Play Ok",
+    "url": "/music/Sertanejo/CLIMA DE RODEIO - play ok.m4a",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Cobaia   PLAY",
+    "url": "/music/Sertanejo/Cobaia - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "ComunicaçÃO Falhou   PLAY OK",
+    "url": "/music/Sertanejo/Comunicação Falhou - PLAY OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Convite De Casamento   Gian E Giovani   PLAY",
+    "url": "/music/Sertanejo/Convite de Casamento - Gian e Giovani - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "CORAÇÃO BANDIDO   MARÍLIA MENDONÇA, MAIARA & MARAISA (PLAYBACK ORIGINAL MELHOR QUALIDADE) 2020",
+    "url": "/music/Sertanejo/CORAÇÃO BANDIDO - MARÍLIA MENDONÇA, MAIARA & MARAISA (PLAYBACK ORIGINAL MELHOR QUALIDADE) 2020.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "CORACAO NA CAMA   PLAY",
+    "url": "/music/Várias 2/CORACAO NA CAMA - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Cria Da Ivete   Ivete Sangalo  INSTRUMENTAL ORIGINAL (OFICIAL)™  Com Letra",
+    "url": "/music/Várias 2/Cria da Ivete - Ivete Sangalo  INSTRUMENTAL ORIGINAL (OFICIAL)™  Com Letra.m4a",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "DançA Da Cordinha   É O Tchan PLAY",
+    "url": "/music/Várias 2/Dança da Cordinha - É o Tchan PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Dancing Queen   Original",
+    "url": "/music/Várias/Dancing queen - Original.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "DAQUI PRA FRENTE   PLAY OK",
+    "url": "/music/Sertanejo/DAQUI PRA FRENTE - PLAY OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "David Guetta Titanium",
+    "url": "/music/Várias/David_Guetta_Titanium.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "DESCER PRA BC   PLAYBACK OK",
+    "url": "/music/Sertanejo/DESCER PRA BC - PLAYBACK OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "DO FUNDO DA GROTA   BAITACA (PLAYBACK OFICIAL MELHOR QUALIDADE)",
+    "url": "/music/Sertanejo/DO FUNDO DA GROTA - BAITACA (PLAYBACK OFICIAL MELHOR QUALIDADE).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Do Fundo Da Grota   PLAY OK",
+    "url": "/music/NACIONAIS/Do Fundo Da Grota - PLAY OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Dormi Na PraçA (VersãO Karaokê) (320 Kbps)",
+    "url": "/music/Sertanejo/Dormi Na Praça (Versão Karaokê) (320 kbps).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Ela É Demais   Rick E Renner PLAY",
+    "url": "/music/Sertanejo/Ela é Demais - Rick e Renner PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Endless Love   Luther Vandross With And Mariah Carey",
+    "url": "/music/Várias/Endless love - Luther vandross with and mariah carey.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "EQUIVOCADA   PLAY",
+    "url": "/music/Sertanejo/EQUIVOCADA - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Erro Gostoso   V2   Clube Do Playback",
+    "url": "/music/Sertanejo/Erro Gostoso - V2 - Clube do Playback.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "ESQUEÇA ME SE FOR CAPAZ   PLAY",
+    "url": "/music/Sertanejo/ESQUEÇA-ME SE FOR CAPAZ - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Esquema Preferido   BarõEs Da Pisadinha",
+    "url": "/music/Várias 2/Esquema Preferido - Barões da Pisadinha.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "ESTOY AQUI   GUIPLAY   OK",
+    "url": "/music/Várias/ESTOY AQUI - GUIPLAY - OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Eu Gosto Assim   Gustavo Mioto, Mari Fernandes   PLAY",
+    "url": "/music/Sertanejo/Eu Gosto Assim - Gustavo Mioto, Mari Fernandes - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Eu Me Amarrei Rosto Molhado PeãO Apaixonado  E ",
+    "url": "/music/Várias/Eu me amarrei Rosto molhado Peão apaixonado -E .mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "EvidêNcias (VersãO Karaokê) (320 Kbps)",
+    "url": "/music/Sertanejo/Evidências (Versão Karaokê) (320 kbps).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "FACAS   PLAY",
+    "url": "/music/Várias 2/FACAS - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Fala Mal De Mim   Gusttavo Lima (Karaokê Version)",
+    "url": "/music/Sertanejo/Fala Mal de Mim - Gusttavo Lima (Karaokê Version).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "FAZ AMOR COMIGO SÓ HOJE PLAY OK",
+    "url": "/music/Várias 2/FAZ AMOR COMIGO SÓ HOJE PLAY OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Fim De Noite   GUIPLAY   OK",
+    "url": "/music/Várias/Fim de Noite - GUIPLAY - OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "FIO DE CABELO   CHITÃOZINHO E XORORÓ (PLAYBACK OFICIAL COM LETRA) 1982",
+    "url": "/music/Sertanejo/FIO DE CABELO - CHITÃOZINHO E XORORÓ (PLAYBACK OFICIAL COM LETRA) 1982.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Fly Me To The Moon   Acoustic Version",
+    "url": "/music/Várias/Fly me to the moon - Acoustic Version.m4a",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Fly Me To The Moon   Frank Sinatra",
+    "url": "/music/Várias/Fly me to the moon - Frank Sinatra.m4a",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Fly Me To The Moon   PLAY OK",
+    "url": "/music/INTERNACIONAIS/Fly me to the Moon - PLAY OK.wav",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "FUSCAO PRETO   PLAY",
+    "url": "/music/Várias 2/FUSCAO PRETO - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "GALEGA   PLAY Ok (F)",
+    "url": "/music/Várias 2/GALEGA - PLAY ok (F).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Galopa   PLAY",
+    "url": "/music/Sertanejo/Galopa - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Girls Just Want To Have Fun   PLAY OK",
+    "url": "/music/INTERNACIONAIS/Girls Just Want To Have Fun - PLAY OK.wav",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Give It Up   PLAY OK",
+    "url": "/music/INTERNACIONAIS/Give It Up - PLAY OK.wav",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Goodbye   Air Supply",
+    "url": "/music/Várias/Goodbye - Air Supply.m4a",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Gostava Tanto De Você   Play",
+    "url": "/music/Várias 2/Gostava Tanto De Você - play.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Got To Be Real   PLAY OK",
+    "url": "/music/INTERNACIONAIS/Got to be real - PLAY OK.wav",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "GREASE (PLAYBACK)   OK",
+    "url": "/music/Várias/GREASE (PLAYBACK) - OK.wav",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Guardanapo   GUIPLAY   OK",
+    "url": "/music/Várias/Guardanapo - GUIPLAY - OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "HAJA COLÍRIO PLAY OK",
+    "url": "/music/Sertanejo/HAJA COLÍRIO PLAY OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Henrique E Juliano   Arranhao   Clube Do Playback",
+    "url": "/music/Sertanejo/Henrique e Juliano - Arranhao - Clube do Playback.mp3",
+    "lyricsUrl": null
   },
   {
     "titulo": "I Just Called   Dino   C Major",
-    "url": "/music/I Just Called - Dino - C major.mp3"
+    "url": "/music/DINO/I Just Called - Dino - C major.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Idas E Voltas   PLAY",
+    "url": "/music/Sertanejo/Idas e Voltas - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Im Gonna Getcha   PLAY",
+    "url": "/music/Várias/Im Gonna Getcha - PLAY.mp3",
+    "lyricsUrl": null
   },
   {
     "titulo": "It Must Have Been Love   Dino   B Major",
-    "url": "/music/It Must Have Been Love - Dino - B major.mp3"
-  },
-  {
-    "titulo": "Its My Life   Dino   C Minor",
-    "url": "/music/Its My Life - Dino - C minor.mp3"
+    "url": "/music/DINO/It Must Have Been Love - Dino - B major.mp3",
+    "lyricsUrl": "/lyrics/It Must Have Been Love - Dino - B major.txt"
   },
   {
     "titulo": "Its A Heartache Have You Ever Seen The Rain   Dino   B Major",
-    "url": "/music/Its a Heartache Have You Ever Seen The Rain - Dino - B major.mp3"
+    "url": "/music/DINO/Its a Heartache Have You Ever Seen The Rain - Dino - B major.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Its My Life   Dino   C Minor",
+    "url": "/music/DINO/Its My Life - Dino - C minor.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "JULIET E CHAPELÃO   PLAY OK",
+    "url": "/music/Sertanejo/JULIET E CHAPELÃO - PLAY OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Karaokê Medo Bobo",
+    "url": "/music/Sertanejo/Karaokê Medo Bobo.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Karaokê Tempo De Alegria",
+    "url": "/music/Várias 2/Karaokê tempo de alegria.mp3",
+    "lyricsUrl": null
   },
   {
     "titulo": "La Barca   Dino   Eb Major",
-    "url": "/music/La Barca - Dino - Eb major.mp3"
+    "url": "/music/DINO/La Barca - Dino - Eb major.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "LÁGRIMAS E CHUVA   KID ABELHA (PLAYBACK OFICIAL COM LETRA) 1985",
+    "url": "/music/Várias 2/LÁGRIMAS E CHUVA - KID ABELHA (PLAYBACK OFICIAL COM LETRA) 1985.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "LANCE INDIVIDUAL   PLAY 2",
+    "url": "/music/Várias 2/LANCE INDIVIDUAL - PLAY 2.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "LAPADA DELA   PLAY OK ",
+    "url": "/music/Várias 2/LAPADA DELA - PLAY OK .mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "LETICIA   PLAY",
+    "url": "/music/Várias 2/LETICIA - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Linda Ronstadt   Frenesi",
+    "url": "/music/Várias/Linda Ronstadt - Frenesi.m4a",
+    "lyricsUrl": null
   },
   {
     "titulo": "Love Me Do Hard Days Night   Dino   Gb Major",
-    "url": "/music/Love me Do Hard Days Night - Dino - Gb major.mp3"
+    "url": "/music/DINO/Love me Do Hard Days Night - Dino - Gb major.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "MACARENA",
+    "url": "/music/Várias/MACARENA.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Mal Feito   Hugo E Guilherme, MaríLia MendonçA PLAY",
+    "url": "/music/Sertanejo/Mal Feito - Hugo e Guilherme, Marília Mendonça PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Malvada   PLAY",
+    "url": "/music/Sertanejo/Malvada - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "MAMMA MIA   GUIPLAY   OK",
+    "url": "/music/Várias/MAMMA MIA - GUIPLAY - OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Manda Um Oi   PLAYBACK   OK",
+    "url": "/music/Sertanejo/Manda Um Oi - PLAYBACK - OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "MEDLEY  2   Falamansa   Xote Da Alegria Xote Dos Milagres Rindo A Toa",
+    "url": "/music/Várias 2/MEDLEY  2 - Falamansa - Xote da alegria xote dos milagres Rindo a toa.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "MEDLEY ANOS 60",
+    "url": "/music/NACIONAIS/MEDLEY ANOS 60.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Medley Le Freak   Thats The Way   PLAY OK",
+    "url": "/music/INTERNACIONAIS/Medley Le Freak - Thats The Way - PLAY OK.wav",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Medley Me Leva Pra Casa   PLAY OK",
+    "url": "/music/Sertanejo/Medley Me Leva Pra Casa - PLAY OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Michel Telo   Ai Se Eu Te Pego   Playback",
+    "url": "/music/Sertanejo/Michel Telo - Ai se eu te pego - Playback.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "My Immortal     Evanescence",
+    "url": "/music/Várias/My Immortal - - Evanescence.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "NãO Sei O Que Lá   MaríLia MendonçA, Maiara E MaraíSa (Karaokê Version)",
+    "url": "/music/Sertanejo/Não Sei o Que Lá - Marília Mendonça, Maiara e Maraísa (Karaokê Version).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "NÃO VITALÍCIO PLAY OK",
+    "url": "/music/Sertanejo/NÃO VITALÍCIO PLAY OK.wav",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Ouvi Dizer   PLAY",
+    "url": "/music/Várias 2/Ouvi Dizer - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "PáGina De Amigos   ChitãOzinho & Xororó (Cante Junto) (320 Kbps)",
+    "url": "/music/Sertanejo/Página de Amigos - Chitãozinho & Xororó (Cante Junto) (320 kbps).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "PalhaçA   Naiara Azevedo, Ana Castela (Karaokê Version)",
+    "url": "/music/Sertanejo/Palhaça - Naiara Azevedo, Ana Castela (Karaokê Version).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "PARADA LOUCA   PLAY",
+    "url": "/music/Sertanejo/PARADA LOUCA - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Perfeitinha PLAY",
+    "url": "/music/Sertanejo/Perfeitinha PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Perigosa E Linda PLAY NOVO",
+    "url": "/music/Várias/Perigosa e Linda PLAY NOVO.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Pipoco   Ana Castela",
+    "url": "/music/Sertanejo/Pipoco - Ana Castela.m4a",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Play Back   Ebulicao",
+    "url": "/music/Sertanejo/Play back - Ebulicao.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "PRAZER POR PRAZER   CHRYSTIAN E RALF (PLAYBACK OFICIAL COM LETRA)",
+    "url": "/music/Sertanejo/PRAZER POR PRAZER - CHRYSTIAN E RALF (PLAYBACK OFICIAL COM LETRA).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Primeiros Erros   Capital Inicial (VersãO Karaokê) (320 Kbps)",
+    "url": "/music/Várias 2/Primeiros Erros - Capital Inicial (Versão Karaokê) (320 kbps).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "PULEI NA PISCINA 1 A CIMA",
+    "url": "/music/Várias 2/PULEI NA PISCINA 1 A CIMA.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "QUARTA CADEIRA   PLAY OK (G#)",
+    "url": "/music/Várias 2/QUARTA CADEIRA - PLAY OK (G#).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Quero Você Do Jeito Que Quiser   PLAY VOCAL",
+    "url": "/music/Sertanejo/Quero Você Do Jeito Que Quiser - PLAY VOCAL.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "QUIZAS QUIZAS QUIZAS   OSVALDO FARRES",
+    "url": "/music/Várias/QUIZAS QUIZAS QUIZAS - OSVALDO FARRES.m4a",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Recairei   PLAY",
+    "url": "/music/Sertanejo/Recairei - PLAY.wav",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "RITA (Bb)",
+    "url": "/music/Sertanejo/RITA (Bb).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Roxette It Must Have Been Love",
+    "url": "/music/Várias/Roxette_It_Must_Have_Been_Love.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "S DE SAUDADE   LUÍZA & MAURÍLIO (INSTRUMENTAL ORIGINAL)",
+    "url": "/music/Sertanejo/S DE SAUDADE - LUÍZA & MAURÍLIO (INSTRUMENTAL ORIGINAL).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "S De Saudade   Luiza E MauríLio Part. Zé Neto E Cristiano PLAY",
+    "url": "/music/Sertanejo/S de Saudade - Luiza e Maurílio Part. Zé Neto e Cristiano PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "SABOR A MI KARAOKE   ALVARO CARRILLO",
+    "url": "/music/Várias/SABOR A MI KARAOKE - ALVARO CARRILLO.m4a",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "SAUDADE   CHRYSTIAN E RALF (PLAYBACK OFICIAL COM LETRA) 1988",
+    "url": "/music/Sertanejo/SAUDADE - CHRYSTIAN E RALF (PLAYBACK OFICIAL COM LETRA) 1988.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Saudade De Minha Terra   ChitãOzinho E Xororó",
+    "url": "/music/Sertanejo/Saudade De Minha Terra - Chitãozinho e Xororó.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "SAUDADE DE NIVEL HARD",
+    "url": "/music/Sertanejo/SAUDADE DE NIVEL HARD.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "SE JOGA NO PASSINHO   PLAY OK (D)",
+    "url": "/music/Várias 2/SE JOGA NO PASSINHO - PLAY OK (D).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Shallow   PLAY",
+    "url": "/music/Várias 2/Shallow - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Só Da Você Na Minha   JoãO Paulo E Daniel",
+    "url": "/music/Várias 2/Só da você na minha - João Paulo e Daniel.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Só Da Você Na Minha Vida ) JoãO Paulo E Daniel",
+    "url": "/music/Várias 2/Só da você na minha vida ) João Paulo e Daniel.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "SOLAMENTE UNA VEZ   AGUSTIN LARA",
+    "url": "/music/Várias/SOLAMENTE UNA VEZ - AGUSTIN LARA.m4a",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Some Que Ele Vem AtráS   PLAY Anitta E MaríLia MendonçA ",
+    "url": "/music/Sertanejo/Some Que Ele Vem Atrás - PLAY Anitta e Marília Mendonça .mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Speranza",
+    "url": "/music/Várias/Speranza.m4a",
+    "lyricsUrl": null
   },
   {
     "titulo": "Stand By Me Every Breath You Take   Dino   Ab Major",
-    "url": "/music/Stand By Me Every Breath You Take - Dino - Ab major.mp3"
+    "url": "/music/DINO/Stand By Me Every Breath You Take - Dino - Ab major.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Stayin Alive   PLAY OK",
+    "url": "/music/INTERNACIONAIS/Stayin Alive - PLAY OK.wav",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Supera   MaríLia MendonçA PLAY",
+    "url": "/music/Sertanejo/Supera - Marília Mendonça PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Sweet Caroline   PLAY OK",
+    "url": "/music/INTERNACIONAIS/Sweet Caroline - PLAY OK.wav",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Tem Cabaré Essa Noite",
+    "url": "/music/Sertanejo/Tem cabaré essa noite.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Teu Amigo Cuidou   PLAY",
+    "url": "/music/Sertanejo/Teu Amigo Cuidou - PLAY.mp3",
+    "lyricsUrl": null
   },
   {
     "titulo": "The Best   Dino   Eb Major",
-    "url": "/music/The Best - Dino - Eb major.mp3"
+    "url": "/music/DINO/The Best - Dino - Eb major.mp3",
+    "lyricsUrl": "/lyrics/The Best - Dino - Eb major.txt"
+  },
+  {
+    "titulo": "The Game Of Love (COM GUITAR)",
+    "url": "/music/Várias/The_Game_of_Love (COM GUITAR).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "The Game Of Love (SEM GUITAR)",
+    "url": "/music/Várias/The_Game_of_Love (SEM GUITAR).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "The Girl From Ipanema",
+    "url": "/music/Várias/The girl from Ipanema.m4a",
+    "lyricsUrl": null
   },
   {
     "titulo": "The Time Of My Life   Dino   Db Major",
-    "url": "/music/The Time Of My Life - Dino - Db major.mp3"
+    "url": "/music/DINO/The Time Of My Life - Dino - Db major.mp3",
+    "lyricsUrl": "/lyrics/The Time Of My Life - Dino - Db major.txt"
+  },
+  {
+    "titulo": "TITANIUM CORTADA",
+    "url": "/music/Várias/TITANIUM CORTADA.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "TÔ NEM AÍ   LUKA (PLAYBACK ORIGINAL) 2006",
+    "url": "/music/Várias 2/TÔ NEM AÍ - LUKA (PLAYBACK ORIGINAL) 2006.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Toma Toma Vapo Vapo ",
+    "url": "/music/Várias 2/Toma Toma Vapo Vapo .mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "VACILÃO   PLAYBACK",
+    "url": "/music/Várias 2/VACILÃO - PLAYBACK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "VAI LA   Play Ok",
+    "url": "/music/Sertanejo/VAI LA - play ok.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Vai Lá Em Casa Hoje (GUI) ",
+    "url": "/music/Várias 2/Vai Lá em Casa Hoje (GUI) .mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "VC BEBERIA OU NAO BEBERIA",
+    "url": "/music/Várias 2/VC BEBERIA OU NAO BEBERIA.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "VOLTA BEBÊ, VOLTA NENÉM   PLAY OK",
+    "url": "/music/Várias 2/VOLTA BEBÊ, VOLTA NENÉM - PLAY OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "Vontade De Morder   PLAY",
+    "url": "/music/Sertanejo/Vontade de Morder - PLAY.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "VOU FALAR QUE NÃO QUERO   PLAY OK",
+    "url": "/music/Várias 2/VOU FALAR QUE NÃO QUERO - PLAY OK.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "What A Felling   PLAY OK",
+    "url": "/music/INTERNACIONAIS/What a Felling - PLAY OK.wav",
+    "lyricsUrl": null
   },
   {
     "titulo": "Whats Up   Dino   Ab Major",
-    "url": "/music/Whats up - Dino - Ab major.mp3"
+    "url": "/music/DINO/Whats up - Dino - Ab major.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "WHISKY A GO GO   ROUPA NOVA (PLAYBACK OFICIAL MELHOR QUALIDADE) 1993",
+    "url": "/music/Várias 2/WHISKY A GO-GO - ROUPA NOVA (PLAYBACK OFICIAL MELHOR QUALIDADE) 1993.mp3",
+    "lyricsUrl": null
   },
   {
     "titulo": "Your Love   Dino   GUIPLAY OK",
-    "url": "/music/Your Love - Dino - GUIPLAY OK.mp3"
+    "url": "/music/DINO/Your Love - Dino - GUIPLAY OK.mp3",
+    "lyricsUrl": null
   },
   {
     "titulo": "Youre Still The One   Dino   Db Major",
-    "url": "/music/Youre Still The One - Dino - Db major.mp3"
+    "url": "/music/DINO/Youre Still The One - Dino - Db major.mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "ZERO SAUDADE PLAY OK (C)",
+    "url": "/music/Várias 2/ZERO SAUDADE PLAY OK (C).mp3",
+    "lyricsUrl": null
+  },
+  {
+    "titulo": "ZONA DE PERIGO   PLAYBACK",
+    "url": "/music/Sertanejo/ZONA DE PERIGO - PLAYBACK.wav",
+    "lyricsUrl": null
   }
 ]

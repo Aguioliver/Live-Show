@@ -13,6 +13,7 @@ export const listarMusicas = async () => {
         titulo: cacheItem.titulo || cacheItem.nomeArquivo, // Usa o título salvo
         nomeArquivo: cacheItem.nomeArquivo,
         audioBlob: cacheItem.blob, // O blob de áudio
+        lyrics: cacheItem.lyrics, // Adiciona a letra
         audioLocal: true,
       };
     });
@@ -40,6 +41,7 @@ export const obterMusicaPorId = async (id) => {
       titulo: cacheItem.titulo || cacheItem.nomeArquivo,
       nomeArquivo: cacheItem.nomeArquivo,
       audioBlob: cacheItem.blob,
+      lyrics: cacheItem.lyrics, // Adiciona a letra aqui também
       audioLocal: true,
     };
   } catch (error) {

@@ -31,6 +31,7 @@ export default function Musicas() {
         return {
           titulo: item.titulo || nomeArquivo.replace(/\.[^/.]+$/, ""),
           url,
+          lyricsUrl: item.lyricsUrl, // Adiciona a URL da letra
           nomeArquivo,
         };
       });
@@ -94,7 +95,7 @@ export default function Musicas() {
 
   return (
     <div className="p-6 bg-gray-800 rounded-2xl shadow-lg max-w-6xl mx-auto">
-      <h1 className="text-3xl font-bold mb-6 text-white text-center">🎵 Gerenciador de Músicas</h1>
+      <h1 className="text-3xl font-bold mb-6 text-white text-center">🎵 Músicas</h1>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         {/* Coluna Esquerda: Músicas Online */}
@@ -117,7 +118,7 @@ export default function Musicas() {
                     <p className="font-medium text-white truncate text-sm">
                       <span className="text-gray-400 mr-2">{index + 1}.</span>
                       {m.titulo}
-                      <span className="text-xs text-gray-400 ml-2 truncate">({m.nomeArquivo})</span>
+                      {m.lyricsUrl && <span className="text-xs ml-2" title="Possui letra">📜</span>}
                     </p>
                   </div>
 

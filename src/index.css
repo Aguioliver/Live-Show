@@ -11,6 +11,11 @@
   color-scheme: light dark;
 }
 
+/* Garante que o container da aplicação ocupe toda a altura */
+#root {
+  flex-grow: 1;
+}
+
 body {
   margin: 0;
   min-width: 320px;
