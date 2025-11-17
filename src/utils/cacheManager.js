@@ -34,6 +34,17 @@ export async function listarMusicasCache() {
   });
 }
 
+export async function buscarMusicaCache(nomeArquivo) {
+  const db = await openDB();
+  return new Promise((resolve, reject) => {
+    const transaction = db.transaction(STORE_NAME, "readonly");
+    const store = transaction.objectStore(STORE_NAME);
+    const request = store.get(nomeArquivo);
+    request.onsuccess = () => resolve(request.result); // Retorna o item ou undefined
+    request.onerror = () => reject(request.error);
+  });
+}
+
 export async function removerDoCache(nomeArquivo) {
   const db = await openDB();
   const tx = db.transaction(STORE_NAME, "readwrite");

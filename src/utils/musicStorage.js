@@ -1,4 +1,4 @@
-import { listarMusicasCache } from "./cacheManager";
+import { listarMusicasCache, buscarMusicaCache } from "./cacheManager";
 
 // Lista apenas músicas com áudio armazenado localmente (no IndexedDB via cacheManager)
 export const listarMusicas = async () => {
@@ -30,10 +30,18 @@ export const listarMusicas = async () => {
 // Busca uma música específica
 export const obterMusicaPorId = async (id) => {
   try {
-    // Como não salvamos mais objetos completos no localforage,
-    // vamos buscar na lista combinada.
-    const todas = await listarMusicas();
-    return todas.find(m => m.id === id) || null;
+    // Busca diretamente no cache usando o ID (nomeArquivo)
+    const cacheItem = await buscarMusicaCache(id);
+    if (!cacheItem) return null;
+
+    // Mapeia para o formato esperado pela aplicação
+    return {
+      id: cacheItem.nomeArquivo,
+      titulo: cacheItem.titulo || cacheItem.nomeArquivo,
+      nomeArquivo: cacheItem.nomeArquivo,
+      audioBlob: cacheItem.blob,
+      audioLocal: true,
+    };
   } catch (error) {
     console.error("Erro ao obter música:", error);
     return null;
